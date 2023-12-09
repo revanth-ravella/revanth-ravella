@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rishi and I'm a Web developer and Data Scientist</p>
+<p align="left">My name is Rishi and I'm a Web developer and React-Naive Developer</p>
 
 ###
 
