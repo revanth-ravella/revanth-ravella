@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/revanth-ravella/](https://www.linkedin.com/in/revanth-ravella/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
